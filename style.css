@@ -1,0 +1,70 @@
+#head {
+    background-color: rgb(163, 163, 163);
+    
+    background-size: 10px 2px;
+    text-align: center;
+    margin: 0px auto 0px auto;
+    padding: 1px 50px;
+    font-size: 20px;
+    opacity: 0.3;
+    color: red;
+}
+
+h1 {
+    display: inline-flex;
+    color: white;
+}
+
+#nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(161, 154, 154);
+}
+
+#nav li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+#nav li a{
+    display: block;
+    color: #2f2f2f;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#nav li {
+    float: left;
+}
+
+#nav {
+    opacity: 0.4;
+}
+
+#about {
+    background-size: 50px 20px;
+    padding: 1px 40px;
+    background-color: rgb(163, 163, 163);
+    opacity: 0.4;
+    color: white;
+}
+
+#main {
+    background-image: url("images/two-milk-shakes-burgers-fried-onion-rings-and-wedge-potatoes-2340204.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+    color: white;
+    padding: 10px 30px;
+}
+
+#paragraph {
+    padding: 11px 13px;
+    font-size: 20px;
+    
+}
+
